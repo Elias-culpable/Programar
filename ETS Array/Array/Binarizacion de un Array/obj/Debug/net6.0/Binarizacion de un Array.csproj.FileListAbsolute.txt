@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\ETS Array\Array\Binarizacion de un Array\bin\Debug\net6.0\Binarizacion de un Array.exe
+C:\Users\USUARIO\Desktop\ETS Array\Array\Binarizacion de un Array\bin\Debug\net6.0\Binarizacion de un Array.deps.json
+C:\Users\USUARIO\Desktop\ETS Array\Array\Binarizacion de un Array\bin\Debug\net6.0\Binarizacion de un Array.runtimeconfig.json
+C:\Users\USUARIO\Desktop\ETS Array\Array\Binarizacion de un Array\bin\Debug\net6.0\Binarizacion de un Array.dll
+C:\Users\USUARIO\Desktop\ETS Array\Array\Binarizacion de un Array\bin\Debug\net6.0\Binarizacion de un Array.pdb
+C:\Users\USUARIO\Desktop\ETS Array\Array\Binarizacion de un Array\obj\Debug\net6.0\Binarizacion de un Array.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\ETS Array\Array\Binarizacion de un Array\obj\Debug\net6.0\Binarizacion de un Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ETS Array\Array\Binarizacion de un Array\obj\Debug\net6.0\Binarizacion de un Array.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ETS Array\Array\Binarizacion de un Array\obj\Debug\net6.0\Binarizacion de un Array.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ETS Array\Array\Binarizacion de un Array\obj\Debug\net6.0\Binarizacion de un Array.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ETS Array\Array\Binarizacion de un Array\obj\Debug\net6.0\Binarizacion de un Array.dll
+C:\Users\USUARIO\Desktop\ETS Array\Array\Binarizacion de un Array\obj\Debug\net6.0\refint\Binarizacion de un Array.dll
+C:\Users\USUARIO\Desktop\ETS Array\Array\Binarizacion de un Array\obj\Debug\net6.0\Binarizacion de un Array.pdb
+C:\Users\USUARIO\Desktop\ETS Array\Array\Binarizacion de un Array\obj\Debug\net6.0\Binarizacion de un Array.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\ETS Array\Array\Binarizacion de un Array\obj\Debug\net6.0\ref\Binarizacion de un Array.dll
