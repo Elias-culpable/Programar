@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\ETS Array\Array\Calculo de la Media\bin\Debug\net6.0\Calculo de la Media.exe
+C:\Users\USUARIO\Desktop\ETS Array\Array\Calculo de la Media\bin\Debug\net6.0\Calculo de la Media.deps.json
+C:\Users\USUARIO\Desktop\ETS Array\Array\Calculo de la Media\bin\Debug\net6.0\Calculo de la Media.runtimeconfig.json
+C:\Users\USUARIO\Desktop\ETS Array\Array\Calculo de la Media\bin\Debug\net6.0\Calculo de la Media.dll
+C:\Users\USUARIO\Desktop\ETS Array\Array\Calculo de la Media\bin\Debug\net6.0\Calculo de la Media.pdb
+C:\Users\USUARIO\Desktop\ETS Array\Array\Calculo de la Media\obj\Debug\net6.0\Calculo de la Media.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\ETS Array\Array\Calculo de la Media\obj\Debug\net6.0\Calculo de la Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ETS Array\Array\Calculo de la Media\obj\Debug\net6.0\Calculo de la Media.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ETS Array\Array\Calculo de la Media\obj\Debug\net6.0\Calculo de la Media.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ETS Array\Array\Calculo de la Media\obj\Debug\net6.0\Calculo de la Media.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ETS Array\Array\Calculo de la Media\obj\Debug\net6.0\Calculo de la Media.dll
+C:\Users\USUARIO\Desktop\ETS Array\Array\Calculo de la Media\obj\Debug\net6.0\refint\Calculo de la Media.dll
+C:\Users\USUARIO\Desktop\ETS Array\Array\Calculo de la Media\obj\Debug\net6.0\Calculo de la Media.pdb
+C:\Users\USUARIO\Desktop\ETS Array\Array\Calculo de la Media\obj\Debug\net6.0\Calculo de la Media.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\ETS Array\Array\Calculo de la Media\obj\Debug\net6.0\ref\Calculo de la Media.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Binarizacion de un Array/1.0.0": {
+        "runtime": {
+          "Binarizacion de un Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Binarizacion de un Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
