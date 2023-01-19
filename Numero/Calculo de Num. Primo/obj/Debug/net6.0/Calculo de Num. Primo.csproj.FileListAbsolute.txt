@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\ETS Ejer C#\Numero\Calculo de Num. Primo\bin\Debug\net6.0\Calculo de Num. Primo.exe
+C:\Users\USUARIO\Desktop\ETS Ejer C#\Numero\Calculo de Num. Primo\bin\Debug\net6.0\Calculo de Num. Primo.deps.json
+C:\Users\USUARIO\Desktop\ETS Ejer C#\Numero\Calculo de Num. Primo\bin\Debug\net6.0\Calculo de Num. Primo.runtimeconfig.json
+C:\Users\USUARIO\Desktop\ETS Ejer C#\Numero\Calculo de Num. Primo\bin\Debug\net6.0\Calculo de Num. Primo.dll
+C:\Users\USUARIO\Desktop\ETS Ejer C#\Numero\Calculo de Num. Primo\bin\Debug\net6.0\Calculo de Num. Primo.pdb
+C:\Users\USUARIO\Desktop\ETS Ejer C#\Numero\Calculo de Num. Primo\obj\Debug\net6.0\Calculo de Num. Primo.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\ETS Ejer C#\Numero\Calculo de Num. Primo\obj\Debug\net6.0\Calculo de Num. Primo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\ETS Ejer C#\Numero\Calculo de Num. Primo\obj\Debug\net6.0\Calculo de Num. Primo.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\ETS Ejer C#\Numero\Calculo de Num. Primo\obj\Debug\net6.0\Calculo de Num. Primo.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\ETS Ejer C#\Numero\Calculo de Num. Primo\obj\Debug\net6.0\Calculo de Num. Primo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\ETS Ejer C#\Numero\Calculo de Num. Primo\obj\Debug\net6.0\Calculo de Num. Primo.dll
+C:\Users\USUARIO\Desktop\ETS Ejer C#\Numero\Calculo de Num. Primo\obj\Debug\net6.0\refint\Calculo de Num. Primo.dll
+C:\Users\USUARIO\Desktop\ETS Ejer C#\Numero\Calculo de Num. Primo\obj\Debug\net6.0\Calculo de Num. Primo.pdb
+C:\Users\USUARIO\Desktop\ETS Ejer C#\Numero\Calculo de Num. Primo\obj\Debug\net6.0\Calculo de Num. Primo.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\ETS Ejer C#\Numero\Calculo de Num. Primo\obj\Debug\net6.0\ref\Calculo de Num. Primo.dll
