@@ -1,0 +1,15 @@
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\ecuacion de segundo grado (3 coeficientes)\obj\Debug\net6.0\ecuacion de segundo grado (3 coeficientes).csproj.AssemblyReference.cache
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\ecuacion de segundo grado (3 coeficientes)\obj\Debug\net6.0\ecuacion de segundo grado (3 coeficientes).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\ecuacion de segundo grado (3 coeficientes)\obj\Debug\net6.0\ecuacion de segundo grado (3 coeficientes).AssemblyInfoInputs.cache
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\ecuacion de segundo grado (3 coeficientes)\obj\Debug\net6.0\ecuacion de segundo grado (3 coeficientes).AssemblyInfo.cs
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\ecuacion de segundo grado (3 coeficientes)\obj\Debug\net6.0\ecuacion de segundo grado (3 coeficientes).csproj.CoreCompileInputs.cache
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\ecuacion de segundo grado (3 coeficientes)\bin\Debug\net6.0\ecuacion de segundo grado (3 coeficientes).exe
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\ecuacion de segundo grado (3 coeficientes)\bin\Debug\net6.0\ecuacion de segundo grado (3 coeficientes).deps.json
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\ecuacion de segundo grado (3 coeficientes)\bin\Debug\net6.0\ecuacion de segundo grado (3 coeficientes).runtimeconfig.json
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\ecuacion de segundo grado (3 coeficientes)\bin\Debug\net6.0\ecuacion de segundo grado (3 coeficientes).dll
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\ecuacion de segundo grado (3 coeficientes)\bin\Debug\net6.0\ecuacion de segundo grado (3 coeficientes).pdb
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\ecuacion de segundo grado (3 coeficientes)\obj\Debug\net6.0\ecuacion de segundo grado (3 coeficientes).dll
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\ecuacion de segundo grado (3 coeficientes)\obj\Debug\net6.0\refint\ecuacion de segundo grado (3 coeficientes).dll
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\ecuacion de segundo grado (3 coeficientes)\obj\Debug\net6.0\ecuacion de segundo grado (3 coeficientes).pdb
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\ecuacion de segundo grado (3 coeficientes)\obj\Debug\net6.0\ecuacion de segundo grado (3 coeficientes).genruntimeconfig.cache
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\ecuacion de segundo grado (3 coeficientes)\obj\Debug\net6.0\ref\ecuacion de segundo grado (3 coeficientes).dll

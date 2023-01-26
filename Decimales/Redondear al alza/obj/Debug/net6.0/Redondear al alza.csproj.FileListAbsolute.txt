@@ -1,0 +1,15 @@
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Redondear al alza\bin\Debug\net6.0\Redondear al alza.exe
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Redondear al alza\bin\Debug\net6.0\Redondear al alza.deps.json
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Redondear al alza\bin\Debug\net6.0\Redondear al alza.runtimeconfig.json
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Redondear al alza\bin\Debug\net6.0\Redondear al alza.dll
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Redondear al alza\bin\Debug\net6.0\Redondear al alza.pdb
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Redondear al alza\obj\Debug\net6.0\Redondear al alza.csproj.AssemblyReference.cache
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Redondear al alza\obj\Debug\net6.0\Redondear al alza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Redondear al alza\obj\Debug\net6.0\Redondear al alza.AssemblyInfoInputs.cache
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Redondear al alza\obj\Debug\net6.0\Redondear al alza.AssemblyInfo.cs
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Redondear al alza\obj\Debug\net6.0\Redondear al alza.csproj.CoreCompileInputs.cache
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Redondear al alza\obj\Debug\net6.0\Redondear al alza.dll
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Redondear al alza\obj\Debug\net6.0\refint\Redondear al alza.dll
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Redondear al alza\obj\Debug\net6.0\Redondear al alza.pdb
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Redondear al alza\obj\Debug\net6.0\Redondear al alza.genruntimeconfig.cache
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Redondear al alza\obj\Debug\net6.0\ref\Redondear al alza.dll

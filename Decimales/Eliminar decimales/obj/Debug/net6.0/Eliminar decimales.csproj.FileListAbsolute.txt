@@ -1,0 +1,15 @@
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Eliminar decimales\bin\Debug\net6.0\Eliminar decimales.exe
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Eliminar decimales\bin\Debug\net6.0\Eliminar decimales.deps.json
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Eliminar decimales\bin\Debug\net6.0\Eliminar decimales.runtimeconfig.json
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Eliminar decimales\bin\Debug\net6.0\Eliminar decimales.dll
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Eliminar decimales\bin\Debug\net6.0\Eliminar decimales.pdb
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Eliminar decimales\obj\Debug\net6.0\Eliminar decimales.csproj.AssemblyReference.cache
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Eliminar decimales\obj\Debug\net6.0\Eliminar decimales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Eliminar decimales\obj\Debug\net6.0\Eliminar decimales.AssemblyInfoInputs.cache
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Eliminar decimales\obj\Debug\net6.0\Eliminar decimales.AssemblyInfo.cs
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Eliminar decimales\obj\Debug\net6.0\Eliminar decimales.csproj.CoreCompileInputs.cache
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Eliminar decimales\obj\Debug\net6.0\Eliminar decimales.dll
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Eliminar decimales\obj\Debug\net6.0\refint\Eliminar decimales.dll
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Eliminar decimales\obj\Debug\net6.0\Eliminar decimales.pdb
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Eliminar decimales\obj\Debug\net6.0\Eliminar decimales.genruntimeconfig.cache
+C:\Users\ModuloPRO\Desktop\C#\Programar\Decimales\Eliminar decimales\obj\Debug\net6.0\ref\Eliminar decimales.dll

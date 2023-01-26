@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ecuacion de segundo grado (3 coeficientes)/1.0.0": {
+        "runtime": {
+          "ecuacion de segundo grado (3 coeficientes).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ecuacion de segundo grado (3 coeficientes)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
