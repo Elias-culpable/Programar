@@ -6,9 +6,9 @@ namespace calculo_de_num_primo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"Calculo si el numero es primo");
+            Console.WriteLine($"Calculo si el número es primo");
             Console.WriteLine("--------------------------");
-            Console.Write("Numero: ");
+            Console.Write("Número: ");
             int Num = Convert.ToInt32(Console.ReadLine());
             int toke=0;
             for (int i = 2; i < Num; i++)
@@ -20,11 +20,11 @@ namespace calculo_de_num_primo
             }
             if (toke==1||Num==1)
             {
-                Console.Write($"{Num} no es un numero primo");
+                Console.Write($"{Num} no es un número primo");
             }
             else
             {
-                Console.Write($"{Num} si es un numero primo");
+                Console.Write($"{Num} si es un número primo");
             }
         }
     }
