@@ -23,13 +23,13 @@ namespace EJERCICIO3
             
             for (int i = 0; i < entrada.Length; i++)
             {
-                if (letra.ElementAt(0) == entrada.ElementAt(i))
+                if (letra[0] == entrada[i])
                 {
                     contador++;
                 }
             }
 
-            Console.WriteLine("La letra {0}, se repite : {1} veces. ", letra, contador);
+            Console.WriteLine("La letra {0} se repite : {1} veces. ", letra, contador);
 
             
             Console.WriteLine("Pulse enter para finalizar el programa...");

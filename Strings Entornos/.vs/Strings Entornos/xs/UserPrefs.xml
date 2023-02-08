@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{BA810D09-46F4-40E2-A99D-CC6352928997}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Strings Entornos" expanded="True">
+            <Node name="EJERCICIO1" expanded="True" />
+            <Node name="EJERCICIO2" expanded="True" />
+            <Node name="EJERCICIO3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EJERCICIO1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.EJERCICIO3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EJERCICIO6 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.EJERCICIO2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.EJERCICIO4 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.EJERCICIO5 FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

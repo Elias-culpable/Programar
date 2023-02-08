@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ENTORNOS DE DESARROLLO\\TRABAJO ENTORNOS HTML\\Web-Libreria\\Strings Entornos\\EJERCICIO1\\EJERCICIO1.csproj": {}
+    "/Users/ivanrobaynahernandez/Desktop/Programar/Strings Entornos/EJERCICIO1/EJERCICIO1.csproj": {}
   },
   "projects": {
-    "E:\\ENTORNOS DE DESARROLLO\\TRABAJO ENTORNOS HTML\\Web-Libreria\\Strings Entornos\\EJERCICIO1\\EJERCICIO1.csproj": {
+    "/Users/ivanrobaynahernandez/Desktop/Programar/Strings Entornos/EJERCICIO1/EJERCICIO1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ENTORNOS DE DESARROLLO\\TRABAJO ENTORNOS HTML\\Web-Libreria\\Strings Entornos\\EJERCICIO1\\EJERCICIO1.csproj",
+        "projectUniqueName": "/Users/ivanrobaynahernandez/Desktop/Programar/Strings Entornos/EJERCICIO1/EJERCICIO1.csproj",
         "projectName": "EJERCICIO1",
-        "projectPath": "E:\\ENTORNOS DE DESARROLLO\\TRABAJO ENTORNOS HTML\\Web-Libreria\\Strings Entornos\\EJERCICIO1\\EJERCICIO1.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\ENTORNOS DE DESARROLLO\\TRABAJO ENTORNOS HTML\\Web-Libreria\\Strings Entornos\\EJERCICIO1\\obj\\",
+        "projectPath": "/Users/ivanrobaynahernandez/Desktop/Programar/Strings Entornos/EJERCICIO1/EJERCICIO1.csproj",
+        "packagesPath": "/Users/ivanrobaynahernandez/.nuget/packages/",
+        "outputPath": "/Users/ivanrobaynahernandez/Desktop/Programar/Strings Entornos/EJERCICIO1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/ivanrobaynahernandez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }
