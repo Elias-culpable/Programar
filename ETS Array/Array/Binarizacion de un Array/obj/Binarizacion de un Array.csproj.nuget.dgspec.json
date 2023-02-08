@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ModuloPRO\\Desktop\\Programar\\ETS Array\\Array\\Binarizacion de un Array\\Binarizacion de un Array.csproj": {}
+    "/Users/ivanrobaynahernandez/Desktop/Programar/ETS Array/Array/Binarizacion de un Array/Binarizacion de un Array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ModuloPRO\\Desktop\\Programar\\ETS Array\\Array\\Binarizacion de un Array\\Binarizacion de un Array.csproj": {
+    "/Users/ivanrobaynahernandez/Desktop/Programar/ETS Array/Array/Binarizacion de un Array/Binarizacion de un Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ModuloPRO\\Desktop\\Programar\\ETS Array\\Array\\Binarizacion de un Array\\Binarizacion de un Array.csproj",
+        "projectUniqueName": "/Users/ivanrobaynahernandez/Desktop/Programar/ETS Array/Array/Binarizacion de un Array/Binarizacion de un Array.csproj",
         "projectName": "Binarizacion de un Array",
-        "projectPath": "C:\\Users\\ModuloPRO\\Desktop\\Programar\\ETS Array\\Array\\Binarizacion de un Array\\Binarizacion de un Array.csproj",
-        "packagesPath": "C:\\Users\\ModuloPRO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ModuloPRO\\Desktop\\Programar\\ETS Array\\Array\\Binarizacion de un Array\\obj\\",
+        "projectPath": "/Users/ivanrobaynahernandez/Desktop/Programar/ETS Array/Array/Binarizacion de un Array/Binarizacion de un Array.csproj",
+        "packagesPath": "/Users/ivanrobaynahernandez/.nuget/packages/",
+        "outputPath": "/Users/ivanrobaynahernandez/Desktop/Programar/ETS Array/Array/Binarizacion de un Array/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ModuloPRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/ivanrobaynahernandez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }

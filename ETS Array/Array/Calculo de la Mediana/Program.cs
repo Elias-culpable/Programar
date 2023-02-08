@@ -27,7 +27,7 @@ namespace calculo_de_la_mediana
 
             if (NumCel%2==0)
             {
-                Console.WriteLine($"\nLos numeros:{lista[(NumCel/2)-1]} y {lista[NumCel / 2]} hacen la mediana: {((lista[NumCel / 2-1])+(lista[NumCel / 2]))/2}");
+                Console.WriteLine($"\nLos números:{lista[(NumCel/2)-1]} y {lista[NumCel / 2]} hacen la mediana: {((lista[NumCel / 2-1])+(lista[NumCel / 2]))/2}");
             }
             else
             {

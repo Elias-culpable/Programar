@@ -6,7 +6,7 @@ namespace calculo_de_minimo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"El minimo de un array");
+            Console.WriteLine($"El mínimo de un array");
             Console.WriteLine("--------------------------");
             Console.Write("Tamaño del array: ");
             int NumCel = Convert.ToInt32(Console.ReadLine());
@@ -26,7 +26,7 @@ namespace calculo_de_minimo
                     nuM = lista[i];
                 }
             }
-            Console.WriteLine($"\nEl Minimo es: {nuM}");
+            Console.WriteLine($"\nEl Mínimo es: {nuM}");
 
         }
     }

@@ -8,7 +8,7 @@ namespace digitos_diferentes
         {
             Console.WriteLine($"Devolver si un número tiene todos sus dígitos diferentes");
             Console.WriteLine("--------------------------");
-            Console.Write("Numero: ");
+            Console.Write("Número: ");
             int val =0,Num = Convert.ToInt32(Console.ReadLine());
             string cad = Convert.ToString(Num);
 
@@ -30,11 +30,11 @@ namespace digitos_diferentes
             }
             if (val==1)
             {
-                Console.Write($"{Num} tiene digitos repetidos");
+                Console.Write($"{Num} tiene dígitos repetidos");
             }
             else
             {
-                Console.Write($"{Num} no tiene digitos repetidos");
+                Console.Write($"{Num} no tiene dígitos repetidos");
             }
         }
     }

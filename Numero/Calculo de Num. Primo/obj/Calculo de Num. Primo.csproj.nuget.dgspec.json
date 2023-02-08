@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ModuloPRO\\Desktop\\ETS Ejer C#\\Numero\\Calculo de Num. Primo\\Calculo de Num. Primo.csproj": {}
+    "/Users/ivanrobaynahernandez/Desktop/Programar/Numero/Calculo de Num. Primo/Calculo de Num. Primo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ModuloPRO\\Desktop\\ETS Ejer C#\\Numero\\Calculo de Num. Primo\\Calculo de Num. Primo.csproj": {
+    "/Users/ivanrobaynahernandez/Desktop/Programar/Numero/Calculo de Num. Primo/Calculo de Num. Primo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ModuloPRO\\Desktop\\ETS Ejer C#\\Numero\\Calculo de Num. Primo\\Calculo de Num. Primo.csproj",
+        "projectUniqueName": "/Users/ivanrobaynahernandez/Desktop/Programar/Numero/Calculo de Num. Primo/Calculo de Num. Primo.csproj",
         "projectName": "Calculo de Num. Primo",
-        "projectPath": "C:\\Users\\ModuloPRO\\Desktop\\ETS Ejer C#\\Numero\\Calculo de Num. Primo\\Calculo de Num. Primo.csproj",
-        "packagesPath": "C:\\Users\\ModuloPRO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ModuloPRO\\Desktop\\ETS Ejer C#\\Numero\\Calculo de Num. Primo\\obj\\",
+        "projectPath": "/Users/ivanrobaynahernandez/Desktop/Programar/Numero/Calculo de Num. Primo/Calculo de Num. Primo.csproj",
+        "packagesPath": "/Users/ivanrobaynahernandez/.nuget/packages/",
+        "outputPath": "/Users/ivanrobaynahernandez/Desktop/Programar/Numero/Calculo de Num. Primo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ModuloPRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/ivanrobaynahernandez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,7 +8,7 @@ namespace calculo_del_factorial
         {
             Console.WriteLine($"Calculo del factorial");
             Console.WriteLine("--------------------------");
-            Console.Write("Numero Factorial: ");
+            Console.Write("Número Factorial: ");
             int Num = Convert.ToInt32(Console.ReadLine());
             int Resul =1;
             if (Num<0)

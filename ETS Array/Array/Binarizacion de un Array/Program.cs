@@ -6,13 +6,13 @@ namespace calculo_de_la_desviacion_tipica
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"Binarizacion de un aray");
+            Console.WriteLine($"Binarización de un array");
             Console.WriteLine("--------------------------");
             Console.Write("Tamaño del array: ");
             int NumCel = Convert.ToInt32(Console.ReadLine());
             double[] lista = new double[NumCel];
 
-            Console.Write("Base de la Binarizacion: ");
+            Console.Write("Base de la Binarización: ");
             double BBina = Convert.ToDouble(Console.ReadLine());
 
 

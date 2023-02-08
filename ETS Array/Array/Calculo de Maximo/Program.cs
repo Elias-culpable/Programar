@@ -6,7 +6,7 @@ namespace calculo_de_maximo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"El maximo de un array");
+            Console.WriteLine($"El máximo de un array");
             Console.WriteLine("--------------------------");
             Console.Write("Tamaño del array: ");
             int NumCel = Convert.ToInt32(Console.ReadLine());
@@ -26,7 +26,7 @@ namespace calculo_de_maximo
                     nuM = lista[i];
                 }
             }
-            Console.WriteLine($"\nEl Maximo es: {nuM}");
+            Console.WriteLine($"\nEl Máximo es: {nuM}");
 
         }
     }

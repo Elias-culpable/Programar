@@ -6,7 +6,7 @@ namespace Numeros_de_Pell
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"Primeros 15 numeros de la serie de Pell");
+            Console.WriteLine($"Primeros 15 números de la serie de Pell");
             Console.WriteLine("--------------------------");
             int num1 = 1, num2 = 0, num3 = 1;
             for (int i = 0; i < 15; i++)

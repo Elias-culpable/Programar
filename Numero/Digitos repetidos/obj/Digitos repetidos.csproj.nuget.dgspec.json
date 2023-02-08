@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ModuloPRO\\Desktop\\ETS Ejer C#\\Numero\\Digitos repetidos\\Digitos repetidos.csproj": {}
+    "/Users/ivanrobaynahernandez/Desktop/Programar/Numero/Digitos repetidos/Digitos repetidos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ModuloPRO\\Desktop\\ETS Ejer C#\\Numero\\Digitos repetidos\\Digitos repetidos.csproj": {
+    "/Users/ivanrobaynahernandez/Desktop/Programar/Numero/Digitos repetidos/Digitos repetidos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ModuloPRO\\Desktop\\ETS Ejer C#\\Numero\\Digitos repetidos\\Digitos repetidos.csproj",
+        "projectUniqueName": "/Users/ivanrobaynahernandez/Desktop/Programar/Numero/Digitos repetidos/Digitos repetidos.csproj",
         "projectName": "Digitos repetidos",
-        "projectPath": "C:\\Users\\ModuloPRO\\Desktop\\ETS Ejer C#\\Numero\\Digitos repetidos\\Digitos repetidos.csproj",
-        "packagesPath": "C:\\Users\\ModuloPRO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ModuloPRO\\Desktop\\ETS Ejer C#\\Numero\\Digitos repetidos\\obj\\",
+        "projectPath": "/Users/ivanrobaynahernandez/Desktop/Programar/Numero/Digitos repetidos/Digitos repetidos.csproj",
+        "packagesPath": "/Users/ivanrobaynahernandez/.nuget/packages/",
+        "outputPath": "/Users/ivanrobaynahernandez/Desktop/Programar/Numero/Digitos repetidos/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ModuloPRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/ivanrobaynahernandez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }

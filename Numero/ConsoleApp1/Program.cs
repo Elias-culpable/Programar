@@ -7,7 +7,7 @@ namespace Numeros_de_Armstrong
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"Comprobador de numero de Armstrong");
+            Console.WriteLine($"Comprobador de número de Armstrong");
             Console.WriteLine("--------------------------");
             Console.Write("Numero: ");
             int Num = Convert.ToInt32(Console.ReadLine());
@@ -20,11 +20,11 @@ namespace Numeros_de_Armstrong
             }
             if (Sum==Num)
             {
-                Console.Write($"{Num} si es un numero de Armstrong");
+                Console.Write($"{Num} si es un número de Armstrong");
             }
             else
             {
-                Console.Write($"{Num} no es un numero de Armstrong");
+                Console.Write($"{Num} no es un número de Armstrong");
             }
         }
     }
